@@ -12,7 +12,7 @@ Welcome to my data science internship repository! This repository contains all t
 - **Week 4:** [Deployment on Flask]
 - **Week 5:** [Cloud and API deployment]
 - **Week 6:** [File ingestion and schema validation]
-- - **Final Project:** [Bank Marketing (Campaign)]
+- **Final Project:** [Bank Marketing (Campaign)]
 
 ## Instructions
 
@@ -27,6 +27,6 @@ Each folder may contain its own set of instructions or requirements. Please refe
 
 If you need to contact me for any reason, you can reach me via:
 
-- Email: [sidorelamema26@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/sidorela-mema/]
+- Email: sidorelamema26@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sidorela-mema/
 
