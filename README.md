@@ -6,13 +6,6 @@ Welcome to my data science internship repository! This repository contains all t
 
 ## Folder Structure
 
-- **Week 1:** Version Control Assignment 
-- **Week 2:** G2M insight for Cab Investment firm 
-- **Week 3:** Presentation of Week 2 Use Case
-- **Week 4:** Deployment on Flask
-- **Week 5:** Cloud and API deployment
-- **Week 6:** File ingestion and schema validation
-- **Final Project:** 
 
 ## Instructions
 
